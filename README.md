@@ -53,4 +53,4 @@ This project implements a comprehensive quantitative framework to analyze risk t
 ### 🏁 How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install pandas yfinance arch networkx scikit-learn seaborn statsmodels`
-3. Run `Thesis_Final_Analysis.ipynb`.
+3. Run `Stock-Market-Volatility-Analysis`.
