@@ -68,7 +68,7 @@ Unlike the research-focused R prototype, this Python version emphasizes **automa
 
 ### 🏁 How to Run
 1. Clone the repository:
- git clone [https://github.com/shiyuanze/Volatility-Spillover-Analysis-System.git](https://github.com/shiyuanze/Volatility-Spillover-Analysis-System.git)
+ git clone [(https://github.com/shiyuanze/Volatility_Spillover_Analysis_Python.git))](https://github.com/shiyuanze/Volatility_Spillover_Analysis_Python.git)
 
 2.Install dependencies: 
 pip install pandas numpy yfinance arch networkx scikit-learn seaborn statsmodels matplotlib
