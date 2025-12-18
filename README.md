@@ -1,5 +1,5 @@
-# Stock-Market-Volatility-Analysis
-A quantitative study on volatility spillovers between oil, metals, and US stock indices using VAR-DCC-GARCH models (Python implementation).
+# Global Financial Markets Volatility Spillover Analysis System
+# 全球金融市场波动溢出效应分析系统
 
 # 📊 Global Financial Markets Volatility Spillover Analysis System
 
